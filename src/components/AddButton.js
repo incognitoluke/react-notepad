@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { ReactComponent as AddIcon } from '../assets/add.SVG'
+import { ReactComponent as AddIcon } from '../assets/add.svg'
 
 const AddButton = () => {
   return (
